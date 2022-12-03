@@ -5,6 +5,6 @@ Proyecto Integrador
 
 ## Getting Started
 
-Este proyecto usa Google Flutter
+Este proyecto usa Google Flutter.
 
 
