@@ -14,5 +14,7 @@ Contiene los scripts de Python para la creación del modelo.
   - Entrenamiento del modelo con Transferencia de Aprendizaje (face_recognition.ipynb).
   - Modelo exportados (.h5 y .tflite)
 
-
+## Base de datos
+  - La base de datos se puede descargar de Drive en el siguiente enlace: 
+  https://drive.google.com/drive/folders/1tB8horJSKeoJxYMALqaP7LsiCQ_ydH4g?usp=sharing
 
