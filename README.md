@@ -11,7 +11,7 @@ Las versiones requeridas para cada libreria se encuentran en el archivo pubspeck
 ## Folder Entrenamiento 
 Contiene los scripts de Python para la creación del modelo.
   - Extraccion de frames en un video y detección de rostros (rostros.ipynb).
-  - Entrenamiento del modelo con Transferencias de Aprendizaje (face_recognition.ipynb).
+  - Entrenamiento del modelo con Transferencia de Aprendizaje (face_recognition.ipynb).
   - Modelo exportados (.h5 y .tflite)
 
 
