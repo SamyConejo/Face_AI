@@ -13,7 +13,7 @@ Contiene los scripts de Python para la creación del modelo.
   - Extraccion de frames en un video y detección de rostros (rostros.ipynb).
   - Entrenamiento del modelo con Transferencia de Aprendizaje (face_recognition.ipynb).
   - Entrenamiento del modelo con Transferencia de Aprendizaje y Stratified Cross Validation (face_recognition_cv.py).
-  - Archivo .csv para entrenamiento con Stratified Cross Validation.
+  - Archivo .csv para entrenamiento con Stratified Cross Validation (images.csv).
   - Modelos exportados (.h5 y .tflite) para el mejor modelo aplicando SCV.
   
 ## Data Split Clásico
