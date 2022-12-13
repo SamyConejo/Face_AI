@@ -12,7 +12,7 @@ Las versiones requeridas para cada libreria se encuentran en el archivo pubspeck
 Contiene los scripts de Python para la creación del modelo.
   - Extraccion de frames en un video y detección de rostros (rostros.ipynb).
   - Entrenamiento del modelo con Transferencia de Aprendizaje (face_recognition.ipynb).
-  - Entrenamiento del modelo con Transferencia de Aprendizaje y Stratified Cross Validation (face_recognition_cv.ipynb).
+  - Entrenamiento del modelo con Transferencia de Aprendizaje y Stratified Cross Validation (face_recognition_cv.py).
   - Archivo .csv para entrenamiento con Stratified Cross Validation.
   - Modelos exportados (.h5 y .tflite) para el mejor modelo aplicando SCV.
   
